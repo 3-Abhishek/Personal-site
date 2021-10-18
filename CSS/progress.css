@@ -1,0 +1,110 @@
+body{
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+#logo{
+    float:left;
+    width: 70px; 
+    height:80px;              
+    background: transparent;
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+    color:crimson;
+}
+.first{
+    margin:8px;
+    padding:18px;
+}
+header{
+    clear:both;
+}
+nav{
+    border-width:1px 1px 1px 1px;
+    border-style:solid;
+    border-color: black;
+    padding: 2px 20px;
+    margin:15px;
+}
+a{
+    font-size: 33px;
+    color:firebrick;
+    padding-right:15px;
+    margin:23px;
+    text-decoration: none;
+}
+#a,#b,#c,#d{
+    border: 2px solid black;
+    border-width: 0px 1px 0px 0px;
+}
+.Total
+{
+width:85%;
+height:40px;
+background-color: gray;
+}
+.mylevelc{
+width:45%;
+height: 40px;
+background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.mylevelcp{
+width:40%;
+height: 40px;
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.mylevelpython{
+width:70%;
+height: 40px;
+background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.mylevelj{
+width:75%;
+height: 40px;
+background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.mylevelh{
+width:48%;
+height: 40px;
+background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.mylevelcs{
+width:39%;
+height:40px;
+background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+.myleveljs{
+width:38%;
+height: 40px;
+background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+font-size: 30px;
+font-family: 'Times New Roman';
+text-align: center;
+}
+h5{
+font-size: 38px;
+font-family: 'Times New Roman';
+}
+nav a:hover{
+    background-color: rgb(42, 151, 165);
+}
